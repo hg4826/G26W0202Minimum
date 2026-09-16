@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="G26W0202Minimum/G26W0202Minimum.vcxproj" Id="09314950-d70c-4f91-80eb-c8f5d60505ce" />
+</Solution>
